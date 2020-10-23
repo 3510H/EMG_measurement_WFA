@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="srialData1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="srialData2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="srialData3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="srialData4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="cmd1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,1,1</Value>
+    </Setting>
+    <Setting Name="cmd2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2,2,2</Value>
+    </Setting>
+    <Setting Name="cmd3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,1,2</Value>
+    </Setting>
+    <Setting Name="cmd4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,2,2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
